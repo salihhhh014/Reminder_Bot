@@ -144,12 +144,6 @@ reminder_bot/
 
 ---
 
-## 💖 Поддержка / Support
-
-Если вам понравился проект, вы можете поддержать автора:
-*If you like this project, you can support the author:*
-
--   [**DonationAlerts**](https://www.donationalerts.com/r/salihhhh_1120)
 
 
 ## Примечание / Note
