@@ -136,8 +136,6 @@ reminder_bot/
 -   **Салих / Salikh** — Python-разработчик.
     -   *Python developer.*
 -   **Контакты / Contacts:**
-    -   [Freelance.ru](https://freelance.ru/example)
-    -   [Instagram](https://instagram.com/example)
     -   [Telegram-канал - Channel](https://t.me/example_channel)
     -   [Telegram ЛС - Contacts ](https://t.me/example_user)
     -   [GitHub] ((https://github.com/salihhhh014/))
